@@ -1,1 +1,0 @@
-# Multi-Threaded-Communication-Pedestrian-Recognition
